@@ -1,5 +1,6 @@
-# Udacity CS258 Software Testing in python
+# Udacity CS258 Software Testing in Python
 
+Code is changed to python3.
 Assignments are in order of their appearance in the videos.
 
 Course on youtube:
